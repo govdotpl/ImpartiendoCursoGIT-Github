@@ -26,3 +26,12 @@ body{
 #p2{
     color:firebrick;
 }
+
+#footer{
+    background-color: black;
+    height: 80px;
+}
+
+#pFooter{
+    color: white;
+}
