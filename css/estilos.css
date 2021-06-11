@@ -35,3 +35,12 @@ body{
 #nCabecera{
     color:white;
 }
+
+#footer{
+    background-color: black;
+    height: 80px;
+}
+
+#pFooter{
+    color: white;
+}
